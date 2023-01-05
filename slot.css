@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(219, 226, 226);
+}
+.row{
+    background-color: white;
+    border-radius: 30px;
+}
+
+
+/* slot */
+
+        .container-fluid{
+            padding: 0;
+            margin: 0;
+            height: 80vh;
+        }
+        .navbar{
+        height: 10vh;
+        border-radius: 10px;
+        }
+        .main h1{
+            color:white;
+            margin-left: 27vw;
+        }
+        .slot1{
+            width: 100px;
+            height: 180px;
+            background-color: rgb(8, 209, 8);
+            color: white;
+            border: 1px solid black;
+            border-radius: 20px;
+        }
+        .slt{
+            text-align: center;
+            margin-top: 3vh; 
+        }
+        .bx{
+            margin-top: 5vh;
+            margin-left: 5vw;
+        }
+        .btn{
+            width: 120px;
+            margin-top: 5vh;
+        }
+        .vcnt{
+            width: 20px;
+            height: 20px;
+            border: 1px solid black;
+            background-color: rgb(8, 209, 8);
+        }
+        .prkd{
+            width: 20px;
+            height: 20px;
+            border: 1px solid black;
+            background-color: red;
+        }
+        .bckd{
+            width: 20px;
+            height: 20px;
+            border: 1px solid black;
+            background-color: blue;
+        }
